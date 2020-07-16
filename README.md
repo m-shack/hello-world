@@ -1,4 +1,4 @@
 # hello-world
 Learning github
 
-I now have time to learn github and I have the motivation to learn.
+I will soon be working on several projects and plan to use github for version control. This will also be good for working on projects from both laptop and desktop computers.
