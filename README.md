@@ -1,2 +1,2 @@
 # hello-world
-Test and learning repo
+**Test and learning repo** by *Mark Shackelford*.
