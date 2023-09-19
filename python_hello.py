@@ -1,4 +1,5 @@
 # test and learning
+# f strings are a wonderful thing
 
 name = 'Mark Shackelford'
 
